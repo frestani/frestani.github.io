@@ -4,7 +4,7 @@ This is a game created for my midterm in Programming 101. The objective of this 
 
 ### Dogon Pot Variation
 A program that draws pots using recursion.
-[Dogon Pot]()
+[Dogon Pot](https://github.com/frestani/frestani.github.io/tree/PROG101-Projects)
 
 ### Mad Lib
 A C# tutorial provided by ProgrammingIsFun that demonstrate 
