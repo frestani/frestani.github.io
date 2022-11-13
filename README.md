@@ -13,5 +13,7 @@ A C# tutorial provided by ProgrammingIsFun that demonstrate
 ### Substitution Cipher
 This program demonstrates how to use arrays and characters to encode and decode messages.
 
+[Subsititution Cipher](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/InClassSubstitutionCipher.zip)
+
 ### Iterations
 An in-class assignment that use the various types of loops and shows how they would be used.
