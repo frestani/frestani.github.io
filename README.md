@@ -8,8 +8,9 @@ A program that draws pots using recursion.
 [Dogon Pot](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/DogonPotVariation.zip)
 
 ### Mad Lib
-A C# tutorial provided by ProgrammingIsFun that demonstrate 
+A C# tutorial provided by ProgrammingIsFun that demonstrate how to use strings.
 
+[Mad Lib](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/MadLib_ProgrammingIsFun.zip)
 ### Substitution Cipher
 This program demonstrates how to use arrays and characters to encode and decode messages.
 
