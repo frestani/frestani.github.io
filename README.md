@@ -25,6 +25,8 @@ A C# tutorial provided by ProgrammingIsFun that demonstrate how to use strings.
 
 ### Substitution Cipher
 This program demonstrates how to use arrays and characters to encode and decode messages.
+![Substitution Cipher Image 1](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/Substitution2022_1.jpg  "Substitution Cipher Image 1")
+*Uses alphabet and random letter arrays. Uses user input and the .ToUpper() function.*
 
 [Subsititution Cipher](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/SubstitutionCipherFall2022.zip)
 
