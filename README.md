@@ -7,6 +7,7 @@ This is a game created for my midterm in Programming 101. The objective of this 
 
 ### Dogon Pot Variation
 A program that draws pots using recursion.
+![Dogon Pot Image 1](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/DogonPot_1.jpg "Dogon Pot Image 1")
 
 [Dogon Pot](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/DogonPotVariation.zip)
 
