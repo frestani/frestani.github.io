@@ -36,5 +36,15 @@ This program demonstrates how to use arrays and characters to encode and decode 
 
 ### Iterations
 An in-class assignment that use the various types of loops and shows how they would be used.
+![Iterations Image 1](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/Iterations_1.jpg "Iterations Image 1")
+
+![Iterations Image 2](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/Iterations_2.jpg "Iterations Image 2")
+
+![Iterations Image 3](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/Iterations_3.jpg "Iterations Image 3")
+
+![Iterations Image 4](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/Iterations_4.jpg "Iterations Image 4")
+*Examples of a do while loop and a for loop. Previous images show different ways to do a while loop.*
+
+
 
 [Iterations](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/Iterations.zip)
