@@ -28,6 +28,9 @@ This program demonstrates how to use arrays and characters to encode and decode 
 ![Substitution Cipher Image 1](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/Substitution2022_1.jpg  "Substitution Cipher Image 1")
 *Uses alphabet and random letter arrays. Uses user input and the .ToUpper() function.*
 
+![Substitution Cipher Image 2](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/Substitution2022_2.jpg "Substitution Cipher Image 2")
+*Shows the code for how the Encode and Decode functions work. Uses char[] for the alphabet and substitute letters, as well as their arrays. Also uses for loops to iterate through arrays.*
+
 [Subsititution Cipher](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/SubstitutionCipherFall2022.zip)
 
 ### Iterations
