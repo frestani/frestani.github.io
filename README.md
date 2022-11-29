@@ -27,8 +27,8 @@ A C# tutorial provided by ProgrammingIsFun that demonstrate how to use strings.
 [Mad Lib](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/MadLib_ProgrammingIsFun.zip)
 
 ### Tip Calculator
-A simple porgram created in class that calculates a tip.
-![Tip Calculator Image 1](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/TipCode1.jpg "Tip Calculator Image 1)
+A simple program created in class that calculates a tip.
+![Tip Calculator Image 1](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/TipCode1.jpg "Tip Calculator Image 1")
 *Shows use of classes and methods to find the total cost (bill total).*
 
 ![Tip Calculator Image 2](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/TipCode2.jpg "Tip Calculator Image 2")
