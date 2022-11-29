@@ -26,6 +26,16 @@ A C# tutorial provided by ProgrammingIsFun that demonstrate how to use strings.
 
 [Mad Lib](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/MadLib_ProgrammingIsFun.zip)
 
+### Tip Calculator
+A simple porgram created in class that calculates a tip.
+![Tip Calculator Image 1](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/TipCode1.jpg "Tip Calculator Image 1)
+*Shows use of classes and methods to find the total cost (bill total).*
+
+![Tip Calculator Image 2](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/TipCode2.jpg "Tip Calculator Image 2")
+*Asks user how much they want to tip. Choices are shown in switch statements, with each case being a certain percentage.*
+
+[Tip Calculator](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/BuildCodeIII_TipCalculator.zip)
+
 ### Substitution Cipher
 This program demonstrates how to use arrays and characters to encode and decode messages.
 ![Substitution Cipher Image 1](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/Substitution2022_1.jpg  "Substitution Cipher Image 1")
