@@ -21,6 +21,7 @@ A program that draws pots using recursion.
 ### Mad Lib
 A C# tutorial provided by ProgrammingIsFun that demonstrate how to use strings.
 ![Mad Lib Image 1](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/MadLib_1.jpg "Mad Lib Image 1")
+
 *Shows strings of various words to implement in the program. Prints out what type of word is needed for each entry.*
 
 [Mad Lib](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/MadLib_ProgrammingIsFun.zip)
