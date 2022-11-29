@@ -1,8 +1,11 @@
 ## Projects
 ### Pet Hotel
 This is a game created for my midterm in Programming 101. The objective of this game is to take care of pets and satisfy their needs to increase their happiness. The task of this project was to demonstrate the C# skills we learned in class.
-![Pet Hotel Image 1](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/PetHotel_1.jpg " Pet Hotel Image 1")
+![Pet Hotel Image 1](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/PetHotel_1.jpg "Pet Hotel Image 1")
 *Created several arrays of strings for names, animal types, and activities. CreateRandomPet() generates a new, randomized pet each day.*
+
+![Pet Hotel Image 2](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/PetHotel_2.jpg "Pet Hotel Image 2")
+*StartDay() creates a new day with a new pet. Activities() uses a for loop to list the various activities. Also implemented are switch cases to differentiate each activity.*
 
 [Pet Hotel Midterm](https://github.com/frestani/frestani.github.io/blob/Pet-Hotel/PetHotel.zip)
 
