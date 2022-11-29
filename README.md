@@ -43,6 +43,7 @@ An in-class assignment that use the various types of loops and shows how they wo
 ![Iterations Image 3](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/Iterations_3.jpg "Iterations Image 3")
 
 ![Iterations Image 4](https://github.com/frestani/frestani.github.io/blob/PROG101-Projects/GitHub%20Portfolio%20Screenshots%20PROG101/Iterations_4.jpg "Iterations Image 4")
+
 *Examples of a do while loop and a for loop. Previous images show different ways to do a while loop.*
 
 
